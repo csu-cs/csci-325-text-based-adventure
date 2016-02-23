@@ -23,3 +23,5 @@ The twitter account is up and running. I just made a test tweet. I agree with Mi
 Hi everyone, this is Donnie Russell, my cell number is 864 417 8464, and my email is donovanerussell@outlook.com.
 
 I am going to currently work on the requirements document and push it to github. If anyone has any ideas of what they would want to add to it, please let me know.
+
+I already posted this on Twitter, but I'm working on a basic scenario for the game. (Basically a word doc with an idea we can use) I will upload once I'm done and we can discuss whether or not to use it or something else.
