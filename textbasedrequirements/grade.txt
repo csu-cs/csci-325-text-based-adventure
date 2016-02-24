@@ -1,0 +1,5 @@
+Good work.  Some things missing from the UML diagram:
+1) The System Boundary
+2) Is the player only allowed to use north, south, east, and west?  I'd assume he can get/attack, but the UML diagram says otherwise.
+
+Grade: 95
