@@ -27,3 +27,5 @@ I am going to currently work on the requirements document and push it to github.
 I already posted this on Twitter, but I'm working on a basic scenario for the game. (Basically a word doc with an idea we can use) I will upload once I'm done and we can discuss whether or not to use it or something else.
 
 Heya, this is Richard Nathan Jackson. Can just call me Nathan. My email is thylus@live.com and my phone number is 8437080695. Texting would be the fastest way to get ahold of me! I may be an online student but I prefer group meetings IRL whenever possible! Anytime after 9:00 AM -12:00PM, then after 1:20PM - 6:00PM on MTThF. Free all day on Sat after 9:00!
+
+Most of my basic scenario is done. Besides, I thought it would be easier to program the game with a story for it done. That way, most of the output statements can be copied and pasted directly from the story (should we decide to use it).
