@@ -19,7 +19,7 @@ Hi this is Michael Belding. Email is michael_belding@yahoo.com and my cell is 80
 This is Lindsey Hatcher. My cell number is 8432712253 and my email is coke987123@gmail.com.
 
 The twitter account is up and running. I just made a test tweet. I agree with Michael. We do need to figure out who will be doing which part. We also need to decide what the adventure will be about (what the player's character will be and what that character will be doing.
-
+Hey this is Michael, I posted on the twitter account regarding the code. We all need to be more vocal on whats going on.
 Hi everyone, this is Donnie Russell, my cell number is 864 417 8464, and my email is donovanerussell@outlook.com.
 
 I am going to currently work on the requirements document and push it to github. If anyone has any ideas of what they would want to add to it, please let me know.
@@ -31,3 +31,5 @@ Heya, this is Richard Nathan Jackson. Can just call me Nathan. My email is thylu
 Most of my basic scenario is done. Besides, I thought it would be easier to program the game with a story for it done. That way, most of the output statements can be copied and pasted directly from the story (should we decide to use it).
 
 Hello, this is Rea'l Bloomfield. My e-mail is realbloomfie@aol.com. My number is 843-860-5290. Texting is better than calling. I'm free after about 3 pm  every day except Monday.
+
+Hey this is Michael, I posted on the twitter account regarding the code. We all need to be more vocal on whats going on.
