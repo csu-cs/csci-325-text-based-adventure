@@ -33,3 +33,5 @@ Most of my basic scenario is done. Besides, I thought it would be easier to prog
 Hello, this is Rea'l Bloomfield. My e-mail is realbloomfie@aol.com. My number is 843-860-5290. Texting is better than calling. I'm free after about 3 pm  every day except Monday.
 
 Hey this is Michael, I posted on the twitter account regarding the code. We all need to be more vocal on whats going on.
+
+I agree, and admit I've been slack on this. I have finished the basic scenario. It was more of a headache than I anticipated it would be. Every decision is properly lableled though, and I will upload once it's copied to Github.
