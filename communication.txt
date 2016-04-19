@@ -56,3 +56,5 @@ Hi everyone, Donnie again. So Stephen, me, Rea'l, and someone else I can't remem
 Works for me, but I would suggest seeing how far we get tomorrow to decide if we'll need Sunday.
 
 This is michael. I can't make it saturday. I'll be there sunday though
+
+Whenever you are available to work on this project, please either come to the Lab, or pull the code and work on it and push it to Github please. We are really crunching down on time folks.
