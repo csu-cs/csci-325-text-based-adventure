@@ -76,13 +76,16 @@ public class GameBehindTheScenes
                     button1.addActionListener(new ActionListener() {
                         @Override
                         public void actionPerformed(ActionEvent e) {
+                            theFrame.dispose();
                             secondScenario();
                         }
                     });
                     button2.addActionListener(new ActionListener() {
                         @Override
                         public void actionPerformed(ActionEvent e) {
+                            theFrame.dispose();
                             startOfGame();
+                            displayScenario();
                         }
                     });
                 }
