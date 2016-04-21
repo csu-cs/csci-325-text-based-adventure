@@ -66,7 +66,9 @@ public class GameBehindTheScenes
     public void southScenario()
     {
         thePanel.removeAll();
-        theLabel.setText("The Game has ended.");
+        theLabel.setText("<html> You decide to end your journey before it even began. You head back home and abandon <br>" +
+                " your quest. Without your peace treaty, the two kingdoms break off the negotiations and go to war <br>" +
+                " The Game has ended. </html>");
 
         thePanel.add(theLabel);
         thePanel.add(reset);
