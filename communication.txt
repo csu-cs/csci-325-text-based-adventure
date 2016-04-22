@@ -60,3 +60,5 @@ This is michael. I can't make it saturday. I'll be there sunday though
 Whenever you are available to work on this project, please either come to the Lab, or pull the code and work on it and push it to Github please. We are really crunching down on time folks.
 
 This is Donnie. I am going to be gone for the weekend and will return late sunday night. I want everyone to finish the code this weekend, and I'll try to record a video of me playing it for the presentation. If I can't, somebody else will have to.
+
+Remember, this should be done Monday
